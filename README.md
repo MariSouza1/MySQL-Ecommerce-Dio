@@ -1,5 +1,5 @@
 # MySQL-Ecommerce-Dio
-# 📦 Modelo Conceitual de Banco de Dados para E-commerce  
+# Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE  
 
 Este repositório tem o modelo conceitual de um banco de dados desenvolvido para um e-commerce. 
 O objetivo do projeto foi estruturar corretamente as relações entre clientes, pagamentos e entregas, garantindo um gerenciamento eficiente das informações.
