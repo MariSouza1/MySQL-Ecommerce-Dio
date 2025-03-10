@@ -16,6 +16,13 @@ Refinar o modelo apresentado, acrescentando os seguintes pontos:
 
 ---
 
+## DESCRIÇÃO
+
+Foi modelado junto com a professora um contexto reduzido de e-commerce, após isso, escolhi a ferramenta de modelagem para realizar o desafio.
+Como optei por uma variação do modelo entidade relacionamento, como nas ferramentas Mysql Workbench ou DBDesigner foi preciso especificar as PKs e FKs corretamente.
+
+---
+
 ## 🛠 **Tecnologias Utilizadas**  
 
 - **Modelagem de Banco de Dados**  
