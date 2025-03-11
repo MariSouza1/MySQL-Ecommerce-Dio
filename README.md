@@ -35,7 +35,7 @@ Como optei por uma variação do modelo entidade relacionamento, como nas ferram
 ## 🗂 **Estrutura do Projeto**  
 
 - 📄 `(Projeto 1) Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE.png` → Imagem do diagrama do banco de dados  
-- 📜 `d(Projeto 1) Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE.mwb` → MySQL Workbench File (.mwb) com a estrutura do banco de dados  
+- 📜 `(Projeto 1) Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE.mwb` → MySQL Workbench File (.mwb) com a estrutura do banco de dados  
 
 ---
 
